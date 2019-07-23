@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NETCoreSender": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionStrings:Storage": "Value777"
+      }
+    }
+  }
+}
